@@ -1,9 +1,9 @@
 #!/bin/bash
 figlet File - X
-echo "****************************************************************************************************\n"
+echo "****************************************************************************************************"
 echo "Created By :- Amritanshu Keshari"
 echo "Script :- File Generator For Linux"
-echo "Created Date :- 25 Oct, 2021\n"
+echo "Created Date :- 25 Oct, 2021"
 echo "****************************************************************************************************"
 read -p "Name of the extension:" exten
 case $exten in
